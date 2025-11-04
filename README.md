@@ -24,7 +24,7 @@ A Java Maven project designed to scrape publicly available contact and professio
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/SHREY29K/Web-scrapper-java.git
     cd alaska-senate-scraper
     ```
 
